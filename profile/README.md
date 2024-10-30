@@ -26,19 +26,22 @@ timeline
     (Mid-May)<br>Reminder email to inform task force of teams and candidates
 
     section Candidate submissions
-    1 June 2024: Each team provides initial details of the number of candidates intended to be submitted
-    1 October 2024: Submission of final candidate models and description of product and methodology
+    Q3 2024:
+    (1 June)<br>Each team provides initial details of the number of candidates intended to be submitted:
+    (1 October)<br>Submission of final candidate models and description of product and methodology
 
     section Evaluation
-    1 Nov 2024: Evaluation taskforce to provide feedback and suggestions for combination of candidates
-    15 November 2024: Decide final IGRF models (DGRF-2020, IGRF-2025, SV-2025)
+    November 2024:
+    (1 November)<br>Evaluation taskforce to provide feedback and suggestions for combination of candidates:
+    (15 November)<br>Decide final IGRF models (DGRF-2020, IGRF-2025, SV-2025)
 
     section Release
     22 November 2024: Issue final models: Create Zenodo record: Update softwares: Update websites
 
     section Publications
-    1st July 2025: Deadline for submission of papers to EPS special issue
-    1st November 2025: Expected publication date of the IGRF-14 EPS special issue
+    2025:
+    (1 July 2025)<br>Deadline for submission of papers to EPS special issue:
+    (1 November 2025)<br>Expected publication date of the IGRF-14 EPS special issue
 ```
 
 ### Release process
