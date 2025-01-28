@@ -47,7 +47,7 @@ timeline
 ### Release process
 
 1. The final coefficients will be determined and stored in https://github.com/IAGA-VMOD/IGRF14eval
-2. The coefficients will be provided in standard formats (`.txt, .dat, .cof, .shc`) and published as a Zenodo archive with `doi:10.5281/zenodo.14012303` [(draft upload here)](https://zenodo.org/uploads/14012303)
+2. The coefficients will be provided in standard formats (`.txt, .dat, .cof, .shc`) and published as a Zenodo archive with `doi:10.5281/zenodo.14012302` [(link to record)](https://doi.org/10.5281/zenodo.14012302)
 3. ["Official" IGRF page](https://www.ncei.noaa.gov/products/international-geomagnetic-reference-field) will be updated accordingly
 4. Update software:
   - NOAA update `Geomag 7.0`
